@@ -3,7 +3,8 @@ french fries Recipe
 
 //////////////////////////
 
-blanch Potatoes
+blanch Potatoes 
 Cut Fries
 Fry the potatoes
+sprinkle salt to taste
 ///////////////////////////
